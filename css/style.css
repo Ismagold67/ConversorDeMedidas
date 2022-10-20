@@ -1,0 +1,49 @@
+
+#Temp {
+    width: 20vw;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+div {
+    font-style: arial;
+    font-size: 20px;
+    text-shadow: -1px -1px 0px #FFF, 
+    -1px 1px 0px #FFF,                    
+     1px -1px 0px #FFF,                  
+     1px 0px 0px #FFF;;
+}
+h1 {
+    text-shadow: -1px -1px 0px #FFF, 
+    -1px 1px 0px #FFF,                    
+     1px -1px 0px #FFF,                  
+     1px 0px 0px #FFF;;
+
+}
+
+#Comp {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    width: 20vw;
+    margin-left: 2vw;
+    padding: 15px;
+    
+}
+
+#Mass {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    width: 20vw;
+    margin-left: 2vw;
+    padding: 15px;
+}
+
+#NUM {
+    width: 15vw;
+}
+
+body {
+    background-image: linear-gradient(to right, #C2020F, #DB000F 5%, #420105 80%);
+}
+
